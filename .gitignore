@@ -1,0 +1,10 @@
+# vault and log files must never be committed
+*.vault
+vault.dat
+*.log
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
